@@ -1,6 +1,8 @@
 # SmartHomeApp
 Smart Home Application - README
+
 Overview
+
 Welcome to the Smart Home Application! This app is designed to give you complete control over your smart home devices from your smartphone or tablet. With this application, you can monitor, manage, and automate a variety of connected devices, such as lights, thermostats, security cameras, and much more.
 
 The goal is to make your home smarter, safer, and more energy-efficient, providing you with a seamless and intuitive experience.
